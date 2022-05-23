@@ -1,1 +1,1 @@
-from m2onethesaurus.ManyToOneThesaurus import ManyToOneThesaurus
+from .ManyToOneThesaurus import ManyToOneThesaurus
