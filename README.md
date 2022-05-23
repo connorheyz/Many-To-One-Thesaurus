@@ -7,7 +7,7 @@ pip install m2onethesaurus
 ```
 ## Usage
 ```py
-from m2onethesaurus import ManyToOneThesaurus
+from m2onethesaurus.ManyToOneThesaurus import ManyToOneThesaurus
 thes = ManyToOneThesaurus()
 thes.query(["red", "blue"], depth=20)
 thes.print_results(limit=5)
