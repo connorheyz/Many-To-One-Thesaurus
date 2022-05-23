@@ -1,4 +1,6 @@
 # many2onethesaurus
+## Description
+Query WordHippo to find a word that best matches another list or group of words.
 ## Installation
 ```
 pip install many2onethesaurus
